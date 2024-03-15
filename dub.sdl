@@ -1,0 +1,5 @@
+name "pipewire-d"
+description "Pipewire binding for D"
+authors "Luna"
+copyright "Copyright © 2024, Luna"
+license "BSD 2-clause"
